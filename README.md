@@ -30,6 +30,9 @@ The goal is to simulate a **precision medicine framework** that ranks drugs base
   * cancer-specific filtering
 * Ensures mechanistic relevance
 ---
+## 🚀 Live Project Demo
+ https://somshirsha.github.io/Precision-drug-response-prediction/
+---
 ##  Results
 * Generated **patient-specific drug rankings**
 * Identified key pathways:
